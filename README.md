@@ -1,2 +1,3 @@
-# subamos
-App Subamos
+# educol
+App Educol for play
+hola
