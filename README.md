@@ -1,2 +1,2 @@
-# subamos
-App Subamos
+# edupacho
+App edupacho
